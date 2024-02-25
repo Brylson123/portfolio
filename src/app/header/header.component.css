@@ -1,0 +1,16 @@
+.header {
+  background: #1d2149;
+  color: #F5F0F5;
+}
+h1{
+  background: #121FCF;
+  background: repeating-radial-gradient(circle farthest-side at top center, #121FCF 67%, #CF1512 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+h3{
+  background: #B0A8E6;
+  background: linear-gradient(to right, #B0A8E6 67%, #E6E6E6 68%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
